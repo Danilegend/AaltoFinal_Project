@@ -1,0 +1,1 @@
+column=2, row=2, sticky=(W, E)
